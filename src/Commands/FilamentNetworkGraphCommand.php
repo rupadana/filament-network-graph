@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rupadana\FilamentNetworkGraph\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentNetworkGraphCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-network-graph';
 
     public $description = 'My command';
 
